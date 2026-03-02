@@ -7,17 +7,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 )
-```
-
-**File 6:** Inside the `src` folder, create `App.jsx` and paste the full app code you copied in Step 1.
-
-Your folder structure should look like this:
-```
-focus-quest/
-├── index.html
-├── manifest.json
-├── package.json
-├── vite.config.js
-└── src/
-    ├── main.jsx
-    └── App.jsx
