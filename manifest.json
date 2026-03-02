@@ -1,0 +1,17 @@
+{
+  "name": "Focus Quest",
+  "short_name": "Focus Quest",
+  "description": "ADHD Task Manager & Focus App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a14",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=focusquest",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
